@@ -18,5 +18,4 @@ function showMenu(){
         menuDiv.style.top = "-600%";
         isShown = false;
     }
-    console.log("sdad");
 }
